@@ -1,0 +1,91 @@
+.box{
+background-image: url();
+background-position: center;
+text-align: center;
+background-size: cover;
+color: black;
+
+}
+
+body{ text-align:center;
+color:black;
+
+}
+
+header{
+  text-align: center;
+  color: black;
+}
+
+p{
+
+}
+
+.box-one{
+background-image: url(https://storage.googleapis.com/cdn.a1comms.com/assets/img/bm-iphone-15-feature-design--x1.5-v2.png);
+background-position: contain;
+text-align: center;
+background-size: cover;
+}
+
+.box-two{
+background-image: url(https://www.apple.com/newsroom/images/product/watch/standard/applewatch_series_3_two_loop_full.jpg.og.jpg?202308282124);
+background-position: contain;
+text-align: center;
+background-size: cover;
+}
+
+.box-three{
+background-image: url(https://www.apple.com/v/apple-watch-ultra-2/a/images/overview/hero/hero_watch_ultra_middle_screen_startframe__br4z9vt3e6mq_large.jpg);
+background-position: contain;
+text-align: center;
+background-size: cover;
+}
+
+.box-four{
+background-image: url(s://www.apple.com/v/environment/u/images/overview/hero_watch_2__f74dbbs56oa6_large.png);
+background-position: contain;
+text-align: center;
+
+}
+
+.box-five{
+background-image: url(https://www.apple.com/v/airpods-pro/h/images/overview/audio_airpod_guts_bottom__bfet1uy1eg0y_small.jpg);
+background-position: contain;
+text-align: center;
+}
+
+.apple-grid {
+  display: grid;
+  gap:1.5rem;
+  grid-template-columns
+
+  padding-block: 2rem;
+  width: min(95%, 70rem);
+  margin-inline: auto;
+}
+
+
+.box-six{
+background-image: url();
+background-position: center;
+text-align: center;
+background-size: cover;
+color: black;
+}
+
+.box-seven{
+background-image: url();
+background-position: center;
+text-align: center;
+background-size: cover;
+color: black;
+}
+
+.box-eight{
+background-image: url();
+background-position: center;
+text-align: center;
+background-size: cover;
+color: black;
+}
